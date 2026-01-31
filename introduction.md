@@ -1,2 +1,2 @@
 # API Gateway Documentation
-# API Gateway Documentation v1.0
+# API Gateway Documentation v1.0.1
